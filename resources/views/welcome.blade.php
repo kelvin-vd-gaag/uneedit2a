@@ -15,7 +15,7 @@
         <img src="Photos/phone.png">
         <p>+316 30 985 409 SERVICENUMMER</p>
         <p>+3118 28 202 18 KANTOOR </p>
-        <p> BEREIKBAAR VAN 09:00-18:00</p>
+        <p> BEREIKBAAR VAN 09:00-17:00</p>
     </div>
     <div id="tijd">
         <img src="Photos/clock.png">
